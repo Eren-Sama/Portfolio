@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import { motion } from 'framer-motion'
+// import { motion } from 'framer-motion'
 import { Github, Mail, Linkedin } from 'lucide-react'
 import Lenis from 'lenis'
 import Hero from './components/Hero'
@@ -260,3 +260,4 @@ function App() {
 }
 
 export default App
+
