@@ -1,2 +1,0 @@
-# requirements.txt for mail/contact functionality (frontend)
-emailjs-browser==4.4.1
