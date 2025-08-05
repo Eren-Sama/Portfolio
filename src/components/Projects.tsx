@@ -1,8 +1,8 @@
 import { motion } from 'framer-motion'
-import NextFlixImg from '../shujinko/NextFlix.png'
-import DribbleeImg from '../shujinko/Dribblee.png'
-import XenoTicImg from '../shujinko/XenoTic.png'
-import VeltriXImg from '../shujinko/VeltriX.png'
+import NextFlixImg from '../Shujinko/NextFlix.png'
+import DribbleeImg from '../Shujinko/Dribblee.png'
+import XenoTicImg from '../Shujinko/XenoTic.png'
+import VeltriXImg from '../Shujinko/VeltriX.png'
 import { ExternalLink, Github, Sparkles, Brain, Zap } from 'lucide-react'
 import { BidirectionalAnimation } from './BidirectionalAnimation'
 
@@ -449,3 +449,4 @@ const Projects = () => {
 }
 
 export default Projects
+
