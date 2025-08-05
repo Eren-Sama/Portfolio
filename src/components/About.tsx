@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 // Removed unused lucide-react imports
 import { BidirectionalAnimation } from './BidirectionalAnimation'
 // @ts-ignore
-import aboutMeImg from '../shujinko/About--Me.jpg'
+import aboutMeImg from '../Shujinko/About--Me.jpg'
 
 const About = () => {
   // Removed stats
@@ -93,3 +93,4 @@ const About = () => {
 }
 
 export default About
+
