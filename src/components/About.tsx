@@ -72,7 +72,7 @@ const About = () => {
             {/* Description */}
             <BidirectionalAnimation animationType="fadeRight" delay={0.7} className="space-y-4 md:space-y-6 order-2 lg:order-2 text-center lg:text-left px-4 lg:px-0">
               <p className="text-base sm:text-lg md:text-xl text-gray-300 leading-relaxed font-mono max-w-3xl mx-auto lg:mx-0">
-                Hi, I'm a frontend developer who loves turning complex ideas into clean, responsive interfaces—usually with React, TypeScript, and a passion for great design. 
+                Hi, I'm a frontend developer who loves turning complex ideas into clean, responsive interfaces—usually with React, JavaScript, and a passion for great design. 
                 I enjoy breaking things just to understand how they work, then rebuilding them smarter and faster.
               </p>
               
@@ -93,4 +93,5 @@ const About = () => {
 }
 
 export default About
+
 
